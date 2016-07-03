@@ -1,0 +1,40 @@
+.bigbox{
+    
+    width: 900px;
+    height: 400px;
+    padding: 40px;
+    border: 0px rgb(255, 128, 0);
+    margin: 40px;
+    background:#4057d9;
+}
+.smallbox5{color: #000000;width: 250px;
+    display:inline-block;
+    float: left;
+        height: 200px;
+    padding: 10px;
+    border: 0px rgb(0, 0, 0);
+    margin: 0px;
+    background: darkslategray;}
+.smallbox6{color: white;width: 210px;
+    display: inline-block;
+    float: left;
+    height: 120px;
+    padding: 30px;
+    border: 0px rgba(255, 255, 255, 0);
+    margin: 0px;
+    background: rgb(255, 255, 255);}
+span.right {
+position: absolute;
+left: 625px;
+    top: 0;
+    margin: auto;}
+span.center {position: relative; left:0%}
+div.line {
+position: relative;
+text-align: inherit;
+width: 100%;
+}
+n{color: gainsboro; font-size:20px;font-family: monospace;}
+m{color:gainsboro;font-size:18px;font-family:monospace;}
+r{color: white;font-size: 70px;font-family: fantasy;}
+g{color: darkgray;font-size:13px;font-family: sans-serif;}
